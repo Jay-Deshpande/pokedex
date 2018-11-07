@@ -4,11 +4,17 @@ Collect and battle Pokemon in your browser
 
 
 Choose a starting pokemon
->![](Demo/pokedex.gif)
+<kbd>
+![](Demo/pokedex.gif)
+</kbd>
 
 Battle against other pokemon
->![](Demo/pokedex1.gif)
+<kbd>
+![](Demo/pokedex1.gif)
+<kbd>
 
+<kbd>
 Win battles to collect them all!
->![](Demo/pokedex3.gif)
+![](Demo/pokedex3.gif)
+<kbd>
 
