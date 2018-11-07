@@ -11,10 +11,10 @@ Choose a starting pokemon
 Battle against other pokemon
 <kbd>
 ![](Demo/pokedex1.gif)
-<kbd>
+</kbd>
 
 <kbd>
 Win battles to collect them all!
 ![](Demo/pokedex3.gif)
-<kbd>
+</kbd>
 
