@@ -13,8 +13,8 @@ Battle against other pokemon
 ![](Demo/pokedex1.gif)
 </kbd>
 
-<kbd>
 Win battles to collect them all!
+<kbd>
 ![](Demo/pokedex3.gif)
 </kbd>
 
